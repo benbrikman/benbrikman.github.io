@@ -1,10 +1,9 @@
 ---
 title: "Index"
 author: "Ben Brikman"
-date: "4/25/2021"
 output: html_document
 ---
 
 $$\\[.01in]$$
 
-#### This is a website created for BDS 516 Homework #9.
+#### Welcome to my website!!!
