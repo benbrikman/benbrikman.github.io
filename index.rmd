@@ -1,6 +1,5 @@
 ---
-title: "Index"
-author: "Ben Brikman"
+title: "Ben Brikman"
 output: html_document
 ---
 
