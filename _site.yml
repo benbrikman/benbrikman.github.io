@@ -1,16 +1,10 @@
-name: "Sophie Bass's Website"
+name: "Ben Brikman's Website"
 output_dir: "."
 navbar:
-  title: "Sophie Bass"
+  title: "Ben Brikman"
   left:
-    - text: "Introduction"
-      href: Introduction.html
-    - text: "Methodology"
-      href: Methodology.html
-    - text: "Results"
-      href: Results.html
-    - text: "Conclusion"
-      href: Conclusion.html
+    - text: "Twitter Project"
+      href: bds416.hw9.html
 
 output:
   html_document:
