@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Twitter Project"
       href: bds516.hw9.html
+    - text: "Network Analysis Project"
+      href: Homework10.html
 
 output:
   html_document:
